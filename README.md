@@ -23,8 +23,6 @@ This is a simple React application that allows users to create categories and ad
    git clone https://github.com/MeetK208/jai-kisan-Full-stack-hiring-challenge.git
    ```
 
-````
-
 2. **Navigate to the project directory**
 
    ```bash
@@ -56,4 +54,3 @@ This is a simple React application that allows users to create categories and ad
 ## Additional Information
 
 This project is designed to test basic React skills, prioritizing code quality over styling. Functional components are used throughout.
-````
