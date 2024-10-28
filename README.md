@@ -1,5 +1,3 @@
-Here's a `README.md` file for the Requirement Submission List React application based on the specifications:
-
 # Requirement Submission List
 
 This is a simple React application that allows users to create categories and add requirements under each category. Users can add as many categories and requirements as needed, with options to edit category names and organize the list for easy viewing.
@@ -24,6 +22,7 @@ This is a simple React application that allows users to create categories and ad
    ```bash
    git clone https://github.com/your-username/requirement-submission-list.git
    ```
+
 ````
 
 2. **Navigate to the project directory**
@@ -57,3 +56,4 @@ This is a simple React application that allows users to create categories and ad
 ## Additional Information
 
 This project is designed to test basic React skills, prioritizing code quality over styling. Functional components are used throughout.
+````
