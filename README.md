@@ -1,6 +1,5 @@
 Here's a `README.md` file for the Requirement Submission List React application based on the specifications:
 
-````markdown
 # Requirement Submission List
 
 This is a simple React application that allows users to create categories and add requirements under each category. Users can add as many categories and requirements as needed, with options to edit category names and organize the list for easy viewing.
