@@ -23,19 +23,13 @@ This is a simple React application that allows users to create categories and ad
    git clone https://github.com/MeetK208/jai-kisan-Full-stack-hiring-challenge.git
    ```
 
-2. **Navigate to the project directory**
-
-   ```bash
-   cd requirement-submission-list
-   ```
-
-3. **Install dependencies**
+2. **Install dependencies**
 
    ```bash
    npm install
    ```
 
-4. **Run the application**
+3. **Run the application**
 
    ```bash
    npm start
