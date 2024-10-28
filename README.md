@@ -20,7 +20,7 @@ This is a simple React application that allows users to create categories and ad
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/requirement-submission-list.git
+   git clone https://github.com/MeetK208/jai-kisan-Full-stack-hiring-challenge.git
    ```
 
 ````
