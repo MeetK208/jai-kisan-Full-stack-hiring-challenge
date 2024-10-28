@@ -9,7 +9,7 @@ This is a simple React application that allows users to create categories and ad
 - **Render List**: Categories and their associated requirements are displayed on the right side of the screen.
 - **JSON Print**: A button allows users to print a JSON representation of the categories and requirements to the console.
 
-## Project ScreenShot
+## Project ScreenShots
 
 ![Home Page](./screenshots/image.png)
 
